@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeddingWiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Login Screen -->
+    <string name="email">Email:</string>
+    <string name="phone_no">Phone No:</string>
+    <string name="password">Password:</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="verification_code">Verification Code:</string>
+    <string name="register">Register</string>
+    <string name="registeration">Registration</string>
+    <string name="login">Login</string>
+    <string name="click_here_to_register_string"> If you are not registered, click here to register</string>
+    <string name="click_here_to_login_screen"> If you are already registered, click here to go to Logoin Screen</string>
+    <string name="check_your_email_to_send_varification_code"> Check your registered email for the Verification Code</string>
+    <string name="enter_your_email_id">Enter Your Email ID</string>
+    <string name="enter_your_phone_no">Enter Your Phone NO</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="re_enter_your_password">Re-Enter Your Password</string>
+    <string name="enter_verification_code">Enter Verification Code</string>
+
+    <!-- Login validations -->
+    <string name="fill_email">Please enter your Email address.</string>
+      <string name="fill_phone_no">Please enter phone no.</string>
+        <string name="phone_no_length">Phone No must be 6 digit long.</string>
+    <string name="fill_password">Please enter your Password.</string>
+    <string name="confirm_password">Your New Password and Confirm Password should be same.</string>
+    <string name="password_length">New Password must be 6 digit long.</string>
+    <string name="valid_email"> Please enter valid Email address.</string>
+    <string name="check_password"> Invalid Email or Password</string>
+
+    <string name="login_progress_message">Loading...</string>
+    <string name="loading_progress_message">Loading...</string>
+
+    <!-- Map -->
+    <string name="destination_location_not_found_message">The request could not be processed due to a server error. Either the Loacation is not valid or you can try again.</string>
+
+    <!-- Must Have -->
+    <string name="add_new_must_have">Add New Must Have</string>
+    <string name="network_is_not_available">The Internet connction appers to be offline.</string>
+    <string name="no_of_columns_in_grid_view">4</string>
+
+</resources>

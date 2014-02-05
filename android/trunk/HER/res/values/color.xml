@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    <color name="text_color_grey">#58585A</color>
+    <color name="bg_color_light_yellow">#FFFCF8E7</color>
+    <color name="text_color_white">#FFFFFF</color>
+    <color name="text_color_black">#000000</color>
+    <color name="button_color_yellow">#FFCC00</color>
+    <color name="button_color_orange">#FF9900</color>
+    <color name="text_color_hint">#848484</color>
+    
+    <color name="common_screen_header_color">#fefa29</color>
+    -->
+
+    <color name="common_white_btn_text_color">#ffffff</color>
+    <color name="common_white_txv_text_color">#ffffff</color>
+    <color name="common_gray_txtv_text_color">#828484</color>
+    <color name="common_green_txtv_text_color">#80cbc9</color>
+    <color name="common_blue_text_color">#29a1ad</color>
+    <color name="bg_color_black_transp">#50000000</color>
+    <color name="button_color_yellow">#FFCC00</color>
+    <color name="button_color_orange">#FF9900</color>
+    <color name="button_color_add_album">#dd5151</color>
+    <color name="button_color_update_album">#d1d2d4</color>
+    <color name="button_color_cancel">#0f0f0f</color>
+    <color name="album_photo_grid_bg_color">#d1d2d4</color>
+    <color name="edt_focused">#cccccc</color>
+     <color name="list_item_separator_color">#8b8b8b</color>
+    
+    
+
+</resources>
